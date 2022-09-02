@@ -14,7 +14,7 @@ I use Sass for CSS. It is my first project that i used Sass in it.
 
 This challenge was very fun to do also very challenging. I learned a lot while doing it.
 
-## This challenge provided by [https://www.frontendmentor.io/home](www.frontendmentor.io).
+## This challenge provided by [Frontend Mentor](https://www.frontendmentor.io/home).
 
 You can go to challenge hub from [here](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6/hub/ecommerce-product-page-rD3JjWkAUG).
 But you have to sign up to see challenges.
