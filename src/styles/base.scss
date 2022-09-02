@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+@import './variables';
+@import './header';
+@import './footer';
+@import './home';
+
+html{
+  scroll-behavior: smooth;
+}
+body{
+  font-family: $mainfont;
+  font-size: 18px;
+  color: $very-dark-blue;
+  margin: 0;
+  font-weight: $normal;
+}
