@@ -36,6 +36,12 @@
         @media(min-width:1800px){
           width: 90%;
         }
+        .ant-image-mask{
+          border-radius: 30px;
+          &:hover{
+            border-radius: 30px;
+          }
+        }
         img{
           border-radius: 30px;
           @media(max-width:870px){
